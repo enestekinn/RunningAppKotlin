@@ -1,0 +1,19 @@
+<resources>
+
+
+
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="app_name">RunningAppKotlin</string>
+    <string name="google_maps_key">AIzaSyDwt84ZEnkahN0_RuDcTO1c7fjmaqAzYDk</string>
+
+
+
+</resources>
+
